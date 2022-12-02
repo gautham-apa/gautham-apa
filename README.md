@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gautham-apa
+- 👋 Hi, I’m Hariharan
 - 👀 I’m interested in Algorithms and Backend development
 - 📫 How to reach me gautham.apa@gmail.com
 
