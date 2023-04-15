@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hariharan
-- 👀 I’m interested in Algorithms and building Distributed Systems
+- 👀 I’m interested in Algorithms and curious about building Distributed Systems
 - 📫 How to reach me gautham.apa@gmail.com
 
 <!---
